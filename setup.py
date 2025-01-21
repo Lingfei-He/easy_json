@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
  
 setup(
-    name="easyjson",  # 包名
+    name="easy_json",  # 包名
     version="1.0.0",  # 版本号
     author="Lingfei, He",  # 作者名字
     author_email="lingfei@tju.edu.cn",  # 作者邮箱
