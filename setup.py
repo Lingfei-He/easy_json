@@ -7,7 +7,7 @@ setup(
     author_email="lingfei@tju.edu.cn",  # 作者邮箱
     description="A simple python package to read and save json conveniently.",  # 描述
     # long_description="A longer description of this project",  # 详细描述
-    url="https://github.com/Lingfei-He/easyjson",  # 主页 URL
+    url="https://github.com/Lingfei-He/easy_json",  # 主页 URL
     packages=find_packages(),  # 包列表
     install_requires=[],  # 运行时依赖关系
     classifiers=[
